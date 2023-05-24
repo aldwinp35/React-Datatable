@@ -26,5 +26,5 @@ export default App;
 ```
 
 ### Options
-``data`` data to display.
-``fields (optional)`` fields to be shown in the table.
+* ``data`` data to display.
+* ``fields (optional)`` fields to be shown in the table.
